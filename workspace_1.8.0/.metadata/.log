@@ -10104,3 +10104,21 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-12-28 23:37:01.759
 !MESSAGE Indexed 'Button_Debounce' (19 sources, 78 headers) in 1.58 sec: 3,671 declarations; 13,359 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-29 00:13:03.004
+!MESSAGE Indexed 'learn_system_tick_timer_interrupt' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-29 00:13:05.126
+!MESSAGE Indexed 'learn_system_tick_timer_interrupt' (19 sources, 78 headers) in 1.03 sec: 3,658 declarations; 13,171 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2021-12-29 00:41:02.644
+!MESSAGE ST-LINK firmware verification, Check required failed
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2021-12-29 00:41:02.644
+!MESSAGE ST-LINK firmware verification, No latest info found: -1
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2021-12-29 00:45:56.520
+!MESSAGE ST-LINK firmware verification, Check required failed
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2021-12-29 00:45:56.520
+!MESSAGE ST-LINK firmware verification, No latest info found: -1
