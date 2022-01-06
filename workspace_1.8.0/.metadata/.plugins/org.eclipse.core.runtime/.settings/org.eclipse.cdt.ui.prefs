@@ -31,6 +31,7 @@ overriddenByCSS=,asm_directive,asm_label,buildConsoleBackgroundColor,buildConsol
 pp_default=216,216,216
 pp_directive=204,120,50
 pp_header=165,194,92
+scalability.detect=false
 semanticHighlighting.class.bold=false
 semanticHighlighting.class.color=169,183,198
 semanticHighlighting.class.enabled=true

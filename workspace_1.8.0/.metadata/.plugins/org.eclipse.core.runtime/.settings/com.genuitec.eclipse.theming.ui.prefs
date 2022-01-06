@@ -1,13 +1,15 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1624986146000
+codetogether.announce.displayed=true
 configurationInstallLocation=/opt/st/stm32cubeide_1.8.0/
+ct.reengagement.display.after=1652043450718
 ct.upsell.display.after=1640778674077
 eclipse.preferences.version=1
 iconcolormode=pastel
 iconreplacement=true
 includeThemingInOomph=false
-last.download.attempt.time=1640723183665
-lastConfiguration=1640723448843
+last.download.attempt.time=1641473883044
+lastConfiguration=1641486741087
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

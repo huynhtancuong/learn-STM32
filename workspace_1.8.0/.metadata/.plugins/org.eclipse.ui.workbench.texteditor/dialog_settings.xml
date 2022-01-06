@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="HAL"/>
+		<item key="selection" value="CAN_Interrupts"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="variabl"/>
-			<item value="HAL"/>
+			<item value="filter"/>
+			<item value="LED"/>
+			<item value="CAN_RX_FIFO0"/>
+			<item value="CAN_remote_transmission_request"/>
+			<item value="CAN_identifier_type"/>
+			<item value="CAN_Interrupts"/>
+			<item value="period"/>
+			<item value="delay"/>
 		</list>
 		<list key="replacehistory">
 		</list>

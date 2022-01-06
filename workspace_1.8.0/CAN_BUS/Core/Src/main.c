@@ -149,10 +149,7 @@ int main(void)
   {
 	  Error_Handler();
   }
-  if (HAL_CAN_AddTxMessage(&hcan, &TxHeader, &TxData[3], &TxMailbox[2]) != HAL_OK)
-    {
-  	  Error_Handler();
-    }
+
 
 
   /* USER CODE END 2 */
@@ -166,7 +163,6 @@ int main(void)
 	//TxData[0] = count;
 	//HAL_CAN_AddTxMessage(&hcan, &TxHeader, TxData, &TxMailbox);
 	//HAL_Delay(1000);
-
 
     /* USER CODE END WHILE */
 
